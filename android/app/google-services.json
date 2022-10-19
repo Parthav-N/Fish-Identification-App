@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "415130504866",
+    "project_id": "stately-mote-359812",
+    "storage_bucket": "stately-mote-359812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415130504866:android:c5741a8d89da038338d1fb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415130504866-11b92vk15409f3nsdehm8bl2lrfgb90v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJFdcx-5CN0ThbgMI5CbSv2wxybIY-2o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415130504866-11b92vk15409f3nsdehm8bl2lrfgb90v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415130504866-2quv74r6n770tqgbalhv5sp80arlgpt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
