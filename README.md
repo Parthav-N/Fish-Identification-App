@@ -1,4 +1,4 @@
-# flutter_authentication
+# Fish Identification App
 
 A new Flutter project.
 
